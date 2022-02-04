@@ -17,7 +17,7 @@ News channel as at [Noinoi updates](https://t.me/BAZIGARXD)
 
 ## Heroku Deployment 💜
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hyko-xd/NOINOI-MUSIC)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/baziibro/NOINOI-MUSIC)
 
 # Credits 💖
 - [bazigar](https://github.com/hyko-xd) ``Dev``
